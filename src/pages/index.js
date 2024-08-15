@@ -78,7 +78,7 @@ const IndexPage = () => (
       <p className={styles.intro}>
         {samplePageLinks.map((link, i) => (
           <React.Fragment key={link.url}>
-            <Link to={link.url}>{link.text}</Link>
+            <Link target="_blank" to={link.url}>{link.text}</Link>
             {i !== samplePageLinks.length - 1 && <> · </>}
           </React.Fragment>
         ))}
