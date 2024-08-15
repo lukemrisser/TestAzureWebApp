@@ -41,9 +41,8 @@ const samplePageLinks = [
     description:
       "A simple example of linking to another page within a Gatsby site",
   },
-  { text: "TypeScript", url: "using-typescript" },
+  { text: "Book a Trip", url: "https://url.us.m.mimecastprotect.com/s/1xaZC0Rm4QF0YLxGSwfku90tBB?domain=prf.hn" },
   { text: "Server Side Rendering", url: "using-ssr" },
-  { text: "Deferred Static Generation", url: "using-dsg" },
 ]
 
 const moreLinks = [
