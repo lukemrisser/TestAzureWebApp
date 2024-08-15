@@ -26,8 +26,8 @@ const links = [
       "Learn how to add functionality and customize your Gatsby site or app with thousands of plugins built by our amazing developer community.",
   },
   {
-    text: "Build and Host",
-    url: "https://www.gatsbyjs.com/cloud",
+    text: "Book a Trip",
+    url: "https://url.us.m.mimecastprotect.com/s/1xaZC0Rm4QF0YLxGSwfku90tBB?domain=prf.hn",
     description:
       "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free!",
   },
@@ -41,8 +41,8 @@ const samplePageLinks = [
     description:
       "A simple example of linking to another page within a Gatsby site",
   },
-  { text: "Book a Trip", url: "https://url.us.m.mimecastprotect.com/s/1xaZC0Rm4QF0YLxGSwfku90tBB?domain=prf.hn" },
-  { text: "Server Side Rendering", url: "using-ssr" },
+  { text: "Book a Trip",
+    url: "https://url.us.m.mimecastprotect.com/s/1xaZC0Rm4QF0YLxGSwfku90tBB?domain=prf.hn" },
 ]
 
 const moreLinks = [
