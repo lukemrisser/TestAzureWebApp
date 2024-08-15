@@ -47,24 +47,16 @@ const samplePageLinks = [
 ]
 
 const moreLinks = [
-  { text: "Join us on Discord", url: "https://gatsby.dev/discord" },
+  { text: "Follow us on Instagram",
+    url: "https://www.instagram.com/twinstravelhere/" },
   {
-    text: "Documentation",
-    url: "https://gatsbyjs.com/docs/",
+    text: "Subscribe to our YouTube channel",
+    url: "https://www.youtube.com/",
   },
   {
-    text: "Starters",
-    url: "https://gatsbyjs.com/starters/",
+    text: "Do whatever you do on Pinterest",
+    url: "https://www.pinterest.com/",
   },
-  {
-    text: "Showcase",
-    url: "https://gatsbyjs.com/showcase/",
-  },
-  {
-    text: "Contributing",
-    url: "https://www.gatsbyjs.com/contributing/",
-  },
-  { text: "Issues", url: "https://github.com/gatsbyjs/gatsby/issues" },
 ]
 
 const utmParameters = `?utm_source=starter&utm_medium=start-page&utm_campaign=default-starter`
