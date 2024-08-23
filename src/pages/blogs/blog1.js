@@ -8,7 +8,6 @@ const Blog = () => (
   <Layout>
     <h1>Twins Travel Here Blog</h1>
     <p>We can add the latest blog as well as past blogs on this page</p>
-    <Link to="/blogs/blog1">Go back to the homepage</Link>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
